@@ -334,6 +334,14 @@
     [
       "a2cad988-5f06-42bc-b673-20d9a8512d32",
       "DigitalPower"
+    ],
+    [
+      "06dbc723-7122-4406-a289-fcbfb83c1d8c",
+      "Analogverarbeitung"
+    ],
+    [
+      "54f51ee4-7135-4299-9e59-0cc65eabb755",
+      "Interlocks"
     ]
   ],
   "text_variables": {}
